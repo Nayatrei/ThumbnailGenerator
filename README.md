@@ -3,7 +3,7 @@ Unity Tool: Generate Thumbnail from Prefab from editor
 
 ![EditorImage_Thumbnail](https://github.com/Nayatrei/ThumbnailGenerator/assets/36463159/3ac505a2-7e3a-4ee8-93c3-506d0c167df2)
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/RxI1kIaiSCg))
+
 Thumbnail Generator Tool for Unity Editor
 The Thumbnail Generator is a custom tool designed for Unity Editor that assists in creating thumbnail images for your prefabs. This document serves as a guide to understand and use the Thumbnail Generator effectively.
 
@@ -40,3 +40,6 @@ Camera Settings: Thumbnails are captured using the last active Scene view camera
 
 Conclusion
 The Thumbnail Generator tool for Unity Editor provides a convenient way to create visual representations of your prefabs. By following the steps outlined in this manual, you can efficiently generate thumbnails to enhance your asset management and selection process within the Unity Editor.
+
+
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=RxI1kIaiSCg)](https://www.youtube.com/watch?v=RxI1kIaiSCg)
