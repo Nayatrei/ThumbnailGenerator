@@ -41,11 +41,5 @@ Camera Settings: Thumbnails are captured using the last active Scene view camera
 Conclusion
 The Thumbnail Generator tool for Unity Editor provides a convenient way to create visual representations of your prefabs. By following the steps outlined in this manual, you can efficiently generate thumbnails to enhance your asset management and selection process within the Unity Editor.
 
+[![ThumbnailGenerator](https://img.youtube.com/vi/RxI1kIaiSCg/0.jpg)](https://www.youtube.com/watch?v=RxI1kIaiSCg)
 
-<object width="425" height="350">
-  <param name="movie" value="https://www.youtube.com/watch?v=RxI1kIaiSCg" />
-  <param name="wmode" value="transparent" />
-  <embed src="https://www.youtube.com/watch?v=RxI1kIaiSCg"
-         type="application/x-shockwave-flash"
-         wmode="transparent" width="425" height="350" />
-</object>
