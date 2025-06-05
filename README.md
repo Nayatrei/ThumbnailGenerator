@@ -1,5 +1,6 @@
 # ThumbnailGenerator
 Unity Tool: Generate Thumbnail from Prefab from editor
+![image](https://github.com/user-attachments/assets/5a1f8935-7bd1-416c-b622-0a06d6de991c)
 
 ![EditorImage_Thumbnail](https://github.com/Nayatrei/ThumbnailGenerator/assets/36463159/3ac505a2-7e3a-4ee8-93c3-506d0c167df2)
 
