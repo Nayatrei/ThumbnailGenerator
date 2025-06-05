@@ -1,4 +1,4 @@
-# ThumbnailGenerator
+# Color Remover
 Unity Tool: Generate Thumbnail from Prefab from editor
 ![image](https://github.com/user-attachments/assets/5a1f8935-7bd1-416c-b622-0a06d6de991c)
 
